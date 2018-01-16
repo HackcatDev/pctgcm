@@ -1,0 +1,45 @@
+E:\PCTGCM\PCTGCM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PCTGCM\PCTGCM\bin\Debug\data\games.prop
+E:\PCTGCM\PCTGCM\bin\Debug\PCTGCM.exe
+E:\PCTGCM\PCTGCM\bin\Debug\PCTGCM.pdb
+E:\PCTGCM\PCTGCM\bin\Debug\Newtonsoft.Json.dll
+E:\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.exe
+E:\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.pdb
+E:\PCTGCM\PCTGCM\bin\Debug\data\games.nsgn
+E:\PCTGCM\PCTGCM\bin\Debug\data\games.blist
+E:\PCTGCM\PCTGCM\bin\Debug\data\games.wlist
+E:\PCTGCM\PCTGCM\bin\Debug\data\games.dtime
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.exe
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.pdb
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.blist
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.nsgn
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.prop
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.wlist
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PCTGCM.exe
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PCTGCM.pdb
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\Newtonsoft.Json.dll
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.Charting.dll
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.dll
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\Newtonsoft.Json.xml
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.xml
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.Charting.xml
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\de\PdfSharp.resources.dll
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\de\PdfSharp.Charting.resources.dll
+Z:\Кабинет информатики 301\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.csprojResolveAssemblyReference.cache
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.exe
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.pdb
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.blist
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.nsgn
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.prop
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\data\games.wlist
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PCTGCM.exe
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PCTGCM.pdb
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.Charting.dll
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.dll
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.xml
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\PdfSharp.Charting.xml
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\de\PdfSharp.resources.dll
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\WindowsNT\System32\Не трожь\Род контроль\PCTGCM\PCTGCM\obj\x86\Debug\PCTGCM.csprojResolveAssemblyReference.cache
